@@ -1,7 +1,7 @@
 {
   "name": "moyare",
   "module": "./src/index.ts",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "type": "module",
   "devDependencies": {
     "@types/lodash.set": "^4.3.9",
