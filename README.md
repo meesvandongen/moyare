@@ -5,7 +5,7 @@ Monorepo YAML replacer.
 ## Installation
 
 ```bash
-npm install -g moyare
+bun install moyare
 ```
 
 ## Usage
